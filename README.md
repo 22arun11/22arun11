@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/22arun11/About-Me/blob/main/gifs/Hi.gif" width="30px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
 </div>
-<img align="left" src="https://cdn-media-2.freecodecamp.org/w1280/5f9c9f3d740569d1a4ca4187.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="400" height="300" />
+
  
 <hr>
 
@@ -23,13 +23,17 @@ I-am-Arunkumar@github
 
 <br>
 
+## 🛠️ My Skills
+
 <p>
 <div align="center">
+<h2 align=left>Programming Languages</h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
  
 <br/>
+
 </div>
 </p>
 
@@ -44,7 +48,7 @@ I-am-Arunkumar@github
 </div>
 -->
 
-## My Statistics
+## 👀 My Github Statistics
 
 <br/>
 <p align="left">
@@ -57,6 +61,22 @@ I-am-Arunkumar@github
 
 ![ARUNKUMAR J' Activity Graph](https://activity-graph.herokuapp.com/graph?username=22arun11&custom_title=ArunKumar%20J%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 ------
+<br>
+
+## 🙋 Let's Connect
+
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	Gmail <a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
+<hr/>
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
