@@ -54,10 +54,10 @@ I-am-Arunkumar@github
 ## 👀 My Github Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://22arun11.dev/">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
