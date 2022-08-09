@@ -1,3 +1,6 @@
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/22arun11/About-Me/blob/main/gifs/Hi.gif" width="30px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
@@ -53,8 +56,8 @@ I-am-Arunkumar@github
 <br/>
 <p align="left">
   <a href="https://22arun11.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
+  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="auto%" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
@@ -77,6 +80,7 @@ I-am-Arunkumar@github
 </p>
 
 <hr/>
+</html>
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
