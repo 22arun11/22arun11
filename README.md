@@ -2,26 +2,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://c.tenor.com/WF1XMVRhtj0AAAAC/tenor.gif" width="80px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
+<h1> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://c.tenor.com/WF1XMVRhtj0AAAAC/tenor.gif" width="80px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
 </div>
-
 <hr>
+
 <div>
 
+
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" width="40%" height="70%" align='left' border-radius='5'>
+
+```
 I-am-Arunkumar@github 
 -------------------------
-<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" width="40%" height="60%" align='right'/>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br>
-📚 Studying Bachelors in Computer Science and Engineering from Amrita University in India<br>
-📝 I have a strong interest in Data Science and Artificial Intelligence<br>
-🔭 Working on Deep Learning & Machine Learning<br>
-🌱 Learning about Computer Vision and Machine Learning stuff<br>
-🌟 Main languages: Python, JavaScript<br>
-🚩 Interested in Full Stack Machine Learning Application development<br>
-💖 In a complicated relationship with Neural Networks<br>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 Pursuing CSE in Amrita University from India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
-
+```
 </div>
 <hr>
 
