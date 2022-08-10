@@ -9,19 +9,23 @@
  
 <hr>
 
-```
 I-am-Arunkumar@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 Studying Bachelors in Computer Science and Engineering from Amrita University in India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br>
+📚 Studying Bachelors in Computer Science and Engineering from Amrita University in India<br>
+📝 I have a strong interest in Data Science and Artificial Intelligence<br>
+🔭 Working on Deep Learning & Machine Learning<br>
+🌱 Learning about Computer Vision and Machine Learning stuff<br>
+🌟 Main languages: Python, JavaScript<br>
+🚩 Interested in Full Stack Machine Learning Application development<br>
+💖 In a complicated relationship with Neural Networks<br>
 🎵 Love metal, lofi, jazz and soft music
-```
+
+<div align=right>
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
 <hr>
 
 <br>
@@ -112,14 +116,8 @@ I-am-Arunkumar@github
 </p>
 
 
-
-
 <!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
+
 -->
 
 ## ⚙️ My Github Statistics
