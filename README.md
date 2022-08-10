@@ -7,10 +7,11 @@
 </div>
 
 <hr>
+<div>
 
-I-am-Arunkumar@github
+I-am-Arunkumar@github 
 -------------------------
-<p style="font-family:'Courier New'"
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" width="40%" height="60%" align='right'/>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br>
 📚 Studying Bachelors in Computer Science and Engineering from Amrita University in India<br>
 📝 I have a strong interest in Data Science and Artificial Intelligence<br>
@@ -20,7 +21,8 @@ I-am-Arunkumar@github
 🚩 Interested in Full Stack Machine Learning Application development<br>
 💖 In a complicated relationship with Neural Networks<br>
 🎵 Love metal, lofi, jazz and soft music
-</p>
+
+</div>
 <hr>
 
 ## 🛠️ My Skills
