@@ -29,11 +29,81 @@ I-am-Arunkumar@github
 ## 🛠️ My Skills
 
 <p>
-<div align="center">
-<h2 align=left>Programming Languages</h2>
+<div >
+<h2 align=left>👨‍💻Programming Languages</h2>
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C++-c58545?style=for-the-badge&logo=cplusplus&logoColor=c58545&labelColor=282828">
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div >
+<h2 align=left>🖼️Front-End Development </h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaSrcipt-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
+  
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div >
+<h2 align=left>🗄️Databases & Cloud Hosting</h2>
+  
+  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-GithubPages-c58545?style=for-the-badge&logo=githubpages&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-sqlite-c58545?style=for-the-badge&logo=sqlite&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-aws-c58545?style=for-the-badge&logo=amazonaws&logoColor=c58545&labelColor=282828">
+  
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div >
+<h2 align=left>📼Software & Tools</h2>
+  <img src="https://img.shields.io/badge/-Visualstudio-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-stackoverflow-c58545?style=for-the-badge&logo=stackoverflow&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-git-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Eclipse-c58545?style=for-the-badge&logo=eclipseide&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div >
+<h2 align=left>🧰Framework & Libraries</h2>
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaSrcipt-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C++-c58545?style=for-the-badge&logo=cplusplus&logoColor=c58545&labelColor=282828">
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div >
+<h2 align=left>👨🏽‍💻Workspace</h2>
+  <img src="https://img.shields.io/badge/-windows-c58545?style=for-the-badge&logo=windows&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
 
@@ -51,7 +121,7 @@ I-am-Arunkumar@github
 </div>
 -->
 
-## 👀 My Github Statistics
+## ⚙️ My Github Statistics
 
 <br/>
 <p align="center">
