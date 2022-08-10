@@ -2,15 +2,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/22arun11/About-Me/blob/main/gifs/Hi.gif" width="30px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://c.tenor.com/WF1XMVRhtj0AAAAC/tenor.gif" width="80px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
 </div>
 
- 
 <hr>
 
 I-am-Arunkumar@github
 -------------------------
+<p style="font-family:'Courier New'"
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br>
 📚 Studying Bachelors in Computer Science and Engineering from Amrita University in India<br>
 📝 I have a strong interest in Data Science and Artificial Intelligence<br>
@@ -20,15 +20,8 @@ I-am-Arunkumar@github
 🚩 Interested in Full Stack Machine Learning Application development<br>
 💖 In a complicated relationship with Neural Networks<br>
 🎵 Love metal, lofi, jazz and soft music
-
-<div align=right>
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
+</p>
 <hr>
-
-<br>
 
 ## 🛠️ My Skills
 <h3> 😉These are the skills whiich i have learnt in the past and still learning </h3><br>
