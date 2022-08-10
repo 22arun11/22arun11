@@ -27,6 +27,7 @@ I-am-Arunkumar@github
 <br>
 
 ## 🛠️ My Skills
+<h3> 😉These are the skills whiich i have learnt in the past and still learning </h3><br>
 
 <p>
 <div align=center>
@@ -57,7 +58,7 @@ I-am-Arunkumar@github
 <h2 align=left>🗄️Databases & Cloud Hosting</h2>
   
   <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-GithubPages-c58545?style=for-the-badge&logo=githubpages&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Git.io-c58545?style=for-the-badge&logo=githubpages&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-sqlite-c58545?style=for-the-badge&logo=sqlite&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-aws-c58545?style=for-the-badge&logo=amazonaws&logoColor=c58545&labelColor=282828">
   
@@ -69,9 +70,9 @@ I-am-Arunkumar@github
 
 <div align=center>
 <h2 align=left>📼Software & Tools</h2>
-  <img src="https://img.shields.io/badge/-Visualstudio-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vs code-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-stackoverflow-c58545?style=for-the-badge&logo=stackoverflow&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-so-c58545?style=for-the-badge&logo=stackoverflow&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-git-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Eclipse-c58545?style=for-the-badge&logo=eclipseide&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
@@ -85,7 +86,7 @@ I-am-Arunkumar@github
 <h2 align=left>🧰Framework & Libraries</h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaSrcipt-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JS-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
