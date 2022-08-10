@@ -29,7 +29,7 @@ I-am-Arunkumar@github
 ## 🛠️ My Skills
 
 <p>
-<div >
+<div align=center>
 <h2 align=left>👨‍💻Programming Languages</h2>
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
@@ -41,7 +41,7 @@ I-am-Arunkumar@github
 
 </div>
 
-<div >
+<div align=center>
 <h2 align=left>🖼️Front-End Development </h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -53,7 +53,7 @@ I-am-Arunkumar@github
 
 </div>
 
-<div >
+<div align=center>
 <h2 align=left>🗄️Databases & Cloud Hosting</h2>
   
   <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
@@ -67,7 +67,7 @@ I-am-Arunkumar@github
 
 </div>
 
-<div >
+<div align=center>
 <h2 align=left>📼Software & Tools</h2>
   <img src="https://img.shields.io/badge/-Visualstudio-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
@@ -81,7 +81,7 @@ I-am-Arunkumar@github
 
 </div>
 
-<div >
+<div align=center>
 <h2 align=left>🧰Framework & Libraries</h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -98,7 +98,7 @@ I-am-Arunkumar@github
 
 </div>
 
-<div >
+<div align=center>
 <h2 align=left>👨🏽‍💻Workspace</h2>
   <img src="https://img.shields.io/badge/-windows-c58545?style=for-the-badge&logo=windows&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Android-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
