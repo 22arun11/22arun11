@@ -10,23 +10,25 @@
 <div>
 
 
-<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" width="40%" height='auto' align='left'>
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='267px'  width="40%" align='left'>
 
 ```
 I-am-Arunkumar@github 
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 Pursuing CSE in Amrita University from India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+📚 Pursuing CSE in Amrita University from India.
+📝 I have a strong interest in Data Science and Artificial Intelligence.
+😲 I'm very enthusiastic to learn and work in the new technologies.
+🔭 Working on Deep Learning & Machine Learning.
+🌱 Learning about Computer Vision and Machine Learning stuff.
+🌟 Main languages: Python, C, C++, Java.
+🚩 Interested in Full Stack Machine Learning Application development.
+💖 In a complicated relationship with Neural Networks.
+🎵 Love metal, lofi, jazz and soft music.
+🤹🏽‍♂️ Passionate about developing new ideas, POC and implementation of ideas.
 ```
-</div>
 <hr>
+</div>
+
 
 ## 🛠️ My Skills
 <h3> 😉These are the skills whiich i have learnt in the past and still learning </h3><br>
@@ -151,4 +153,4 @@ I-am-Arunkumar@github
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
-Last Edited on: 10/08/2022
+Last Edited on: 11/08/2022
