@@ -12,7 +12,7 @@
 <hr>
 <div>
 
-<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='277px'  width="320" align='left'>
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='252px'  width="320" align='left'>
 
 ```
  I-am-Arunkumar@github 
