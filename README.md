@@ -1,6 +1,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="viewport" content="height=device-height, initial-scale=1.0">
+
 
 
 <div align="center">
@@ -28,8 +28,8 @@
  🎵 Love metal, lofi, jazz and soft music.
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
-
 <hr>
+<br>
 </div>
 
 ## 🛠️ My Skills
