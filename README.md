@@ -34,8 +34,11 @@
 </div>
 
 ## 🛠️ My Skills
-<h3>😉 Hey all! These are the skills whiich i have accquired over the years. Pls have a look...👇</h3>
--------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">😉 Hey all! These are the skills whiich i have accquired over the years. Pls have a look...👇</h3>
+ 
+ <!-- <h3 align="center">⚡ Fun fact about me: ✨ I love coding+learning+repeating✨</h3> -->
+
 <br>
 <p >
 <div align="center">
@@ -44,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-C++-c58545?style=for-the-badge&logo=cplusplus&logoColor=c58545&labelColor=282828">
- <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
 
@@ -146,7 +149,7 @@
 	
 	
 </p>
-
+<h3 align="center">⚡ Fun fact about me: ✨ I love coding+learning+repeating✨</h3>
 <hr/>
 </html>
 
