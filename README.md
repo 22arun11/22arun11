@@ -82,13 +82,22 @@
 </div>
 
 <div align="center">
-<h2 align=left>📼Software & Tools</h2>
-  <img src="https://img.shields.io/badge/-Vs code-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
+<h2 align=left>💼Tools & Technologies</h2>
   <img src="https://img.shields.io/badge/-so-c58545?style=for-the-badge&logo=stackoverflow&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-git-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Eclipse-c58545?style=for-the-badge&logo=eclipseide&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
+ <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
+ 
+<br/>
+
+</div>
+
+<div align="center">
+<h2 align=left>🌱IDE</h2>
+  <img src="https://img.shields.io/badge/-Vs code-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vim-c58545?style=for-the-badge&logo=vim&logoColor=c58545&labelColor=282828">
+  
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -146,8 +155,10 @@
 	<a href="mailto:arunkumar22112003@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/22arun11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/arunkumar-j-2a1964216/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://stackoverflow.com/users/19720310/arunkumar-j"><img src="https://img.icons8.com/bubbles/50/000000/stack.png" alt="StackOverflow"/></a>
+	<a href="https://twitter.com/22_ARUN_11"><img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png" alt="Twitter"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="Codechef"/></a>
+	
 	
 	
 </p>
