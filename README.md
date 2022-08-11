@@ -35,11 +35,13 @@
 
 ## 🛠️ My Skills
 
-<h3 align="center">😉 Hey all! These are the skills whiich i have accquired over the years. Pls have a look...👇</h3>
- 
+ <h3 align="center" font-weight="bold" >
+
+	😉 Hey all! These are the skills which i have learned over the years. Pls have a look...👇
+	
+</h3>
  <!-- <h3 align="center">⚡ Fun fact about me: ✨ I love coding+learning+repeating✨</h3> -->
 
-<br>
 <p >
 <div align="center">
 <h2 align=left>👨‍💻Programming Languages</h2>
