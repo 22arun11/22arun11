@@ -37,7 +37,7 @@
 
  <h3 align="center" font-weight="bold" >
 
-	😉 Hey all! These are the skills which i have learned over the years. Pls have a look...👇
+	😉 Hey all! These are the skills which i have learned over the years. Check it out...👇
 	
 </h3>
  <!-- <h3 align="center">⚡ Fun fact about me: ✨ I love coding+learning+repeating✨</h3> -->
