@@ -1,9 +1,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="height=device-height, initial-scale=1.0">
 
 
-
-<div align="center">
+<div >
 
 <h1> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://c.tenor.com/WF1XMVRhtj0AAAAC/tenor.gif" width="80px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
@@ -29,14 +29,11 @@
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
 <hr>
-<br>
 </div>
 
 ## 🛠️ My Skills
-<h3> 😉hey all! These are the skills whiich i have learnt in the past years and still learning at present </h3><br>
-
 <p>
-<div align=center>
+<div >
 <h2 align=left>👨‍💻Programming Languages</h2>
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
@@ -48,7 +45,7 @@
 
 </div>
 
-<div align=center>
+<div >
 <h2 align=left>🖼️Front-End Development </h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -60,7 +57,7 @@
 
 </div>
 
-<div align=center>
+<div >
 <h2 align=left>🗄️Databases & Cloud Hosting</h2>
   
   <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
@@ -74,7 +71,7 @@
 
 </div>
 
-<div align=center>
+<div >
 <h2 align=left>📼Software & Tools</h2>
   <img src="https://img.shields.io/badge/-Vs code-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
@@ -88,7 +85,7 @@
 
 </div>
 
-<div align=center>
+<div >
 <h2 align=left>🧰Framework & Libraries</h2>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -105,7 +102,7 @@
 
 </div>
 
-<div align=center>
+<div >
 <h2 align=left>👨🏽‍💻Workspace</h2>
   <img src="https://img.shields.io/badge/-windows-c58545?style=for-the-badge&logo=windows&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Android-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
