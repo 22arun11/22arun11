@@ -4,37 +4,36 @@
 
 
 <div align="center">
+
 <h1> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://c.tenor.com/WF1XMVRhtj0AAAAC/tenor.gif" width="80px"></h2><img src="https://gpvc.arturio.dev/22arun11" alt="Profile views" align='right'/> <a href="https://github.com/22arun11/About-Me/"> </a> 
 
 </div>
-<hr>
 
+<hr>
 <div>
 
-
-<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='267px'  width="40%" align='left'>
-
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='287px'  width="320" align='left'>
 
 ```
-I-am-Arunkumar@github 
--------------------------
-📚 Pursuing CSE in Amrita University from India.
-📝 I have a strong interest in Data Science and Artificial Intelligence.
-😲 I'm very enthusiastic to learn and work in the new technologies.
-🔭 Working on Deep Learning & Machine Learning.
-🌱 Learning about Computer Vision and Machine Learning stuff.
-🌟 Main languages: Python, C, C++, Java.
-🚩 Interested in Full Stack Machine Learning Application development.
-💖 In a complicated relationship with Neural Networks.
-🎵 Love metal, lofi, jazz and soft music.
-🤹🏽‍♂️ Passionate about developing new ideas, POC and implementation of ideas.
+ I-am-Arunkumar@github 
+ -------------------------
+ 📚 Pursuing CSE in Amrita University from India.
+ 📝 I have a strong interest in Data Science & Artificial Intelligence.
+ 😲 I'm very enthusiastic to learn and work in the new technologies.
+ 🔭 Working on Deep Learning & Machine Learning.
+ 🌱 Learning about Computer Vision and Machine Learning stuff.
+ 🌟 Main languages: Python, C, C++, Java.
+ 🚩 Interested in Full Stack Machine Learning Application development.
+ 💖 In a complicated relationship with Neural Networks.
+ 🎵 Love metal, lofi, jazz and soft music.
+ 🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
+
 <hr>
 </div>
 
-
 ## 🛠️ My Skills
-<h3> 😉These are the skills whiich i have learnt in the past and still learning </h3><br>
+<h3> 😉hey all! These are the skills whiich i have learnt in the past years and still learning at present </h3><br>
 
 <p>
 <div align=center>
@@ -118,11 +117,6 @@ I-am-Arunkumar@github
 </div>
 </p>
 
-
-<!--
-
--->
-
 ## ⚙️ My Github Statistics
 
 <br/>
@@ -135,10 +129,10 @@ I-am-Arunkumar@github
 <br>
 
 ![ARUNKUMAR J' Activity Graph](https://activity-graph.herokuapp.com/graph?username=22arun11&custom_title=ArunKumar%20J%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+<br/>
 ------
-<br>
 
-## 🙋 Let's Connect
+## 🙋 Lets connect
 
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
