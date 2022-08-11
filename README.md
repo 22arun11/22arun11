@@ -10,7 +10,7 @@
 <div>
 
 
-<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='267px'  width="40%" align='left'>
+<img src="https://github.com/22arun11/22arun11/blob/main/gifs/img1.gif" height='257px'  width="40%" align='left'>
 
 ```
 I-am-Arunkumar@github 
