@@ -45,21 +45,21 @@
 <p >
 <div align="center">
 <h2 align=left>👨‍💻Programming Languages</h2>
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C++-c58545?style=for-the-badge&logo=cplusplus&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-336699?style=for-the-badge&logo=python&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-ad0a00?style=for-the-badge&logo=openjdk&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C-800080?style=for-the-badge&logo=c&logoColor=666670&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C++-d93b1f?style=for-the-badge&logo=cplusplus&logoColor=666670&labelColor=282828">
   <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
-
+<!--<img src="https://img.shields.io/badge/-Java-4c8099?style=for-the-badge&logo=openjdk&logoColor=FF7F50&labelColor=282828">-->
 </div>
 
 <div align="center">
 <h2 align=left>🖼️Front-End Development </h2>
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaSrcipt-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-d92626?style=for-the-badge&logo=html5&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-2e5ce3?style=for-the-badge&logo=css3&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaSrcipt-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -69,11 +69,10 @@
 
 <div align="center">
 <h2 align=left>🗄️Databases & Cloud Hosting</h2>
-  
-  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Git.io-c58545?style=for-the-badge&logo=githubpages&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-sqlite-c58545?style=for-the-badge&logo=sqlite&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-aws-c58545?style=for-the-badge&logo=amazonaws&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Git.io-00ab8c?style=for-the-badge&logo=githubpages&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-sqlite-663dc2?style=for-the-badge&logo=sqlite&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-aws-a65942?style=for-the-badge&logo=amazonaws&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MySql-1c708f?style=for-the-badge&logo=mysql&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -83,9 +82,9 @@
 
 <div align="center">
 <h2 align=left>💼Tools & Technologies</h2>
-  <img src="https://img.shields.io/badge/-so-c58545?style=for-the-badge&logo=stackoverflow&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-git-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-so-FF6F00?style=for-the-badge&logo=stackoverflow&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-git-b2004d?style=for-the-badge&logo=git&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=f0f0f5&labelColor=282828">
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -94,9 +93,9 @@
 
 <div align="center">
 <h2 align=left>🌱IDE</h2>
-  <img src="https://img.shields.io/badge/-Vs code-c58545?style=for-the-badge&logo=visualstudiocode&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-jupyter-d1a01f?style=for-the-badge&logo=jupyter&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Vim-c58545?style=for-the-badge&logo=vim&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vs code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-jupyter-ff661a?style=for-the-badge&logo=jupyter&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vim-23FA0F00?style=for-the-badge&logo=vim&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -106,15 +105,7 @@
 
 <div align="center">
 <h2 align=left>🧰Framework & Libraries</h2>
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JS-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=openjdk&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-MySql-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C++-c58545?style=for-the-badge&logo=cplusplus&logoColor=c58545&labelColor=282828">
+  
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -123,9 +114,9 @@
 
 <div align="center">
 <h2 align=left>👨🏽‍💻Workspace</h2>
-  <img src="https://img.shields.io/badge/-windows-c58545?style=for-the-badge&logo=windows&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Android-d1a01f?style=for-the-badge&logo=android&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-linux-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android-38d133?style=for-the-badge&logo=android&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=f0f0f5&labelColor=282828">
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -151,7 +142,7 @@
 ## 🙋 Lets connect
 
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:arunkumar22112003@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/22arun11"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/arunkumar-j-2a1964216/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -168,4 +159,4 @@
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
-Last Edited on: 11/08/2022
+Last Edited on: 12/08/2022
