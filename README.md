@@ -17,13 +17,13 @@
 ```
  I-am-Arunkumar@github 
  -------------------------
- 📚 Pursuing BTech CSE in Amrita University from India.
+ 📚 Pursuing BTech CSE at Amrita University, India.
  📝 I have a strong interest in Data Science & Artificial Intelligence.
  😲 I'm very enthusiastic to learn and work in the new technologies.
  🔭 Working on Deep Learning & Machine Learning.
  🌱 Learning about Computer Vision and Machine Learning stuff.
  🌟 Main languages: Python, C, C++, Java.
- 🚩 Interested in Full Stack Machine Learning Application development.
+ 🚩 Interested in Full Stack, Machine Learning Application development.
  💖 In a complicated relationship with Neural Networks.
  🎵 Love metal, lofi, jazz and soft music.
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
@@ -159,4 +159,4 @@
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
-Last Edited on: 12/08/2022
+Last Edited on: 13/08/2022
