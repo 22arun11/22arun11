@@ -17,7 +17,7 @@
 ```
  I-am-Arunkumar@github 
  -------------------------
- 📚 Pursuing CSE in Amrita University from India.
+ 📚 Pursuing BTech CSE in Amrita University from India.
  📝 I have a strong interest in Data Science & Artificial Intelligence.
  😲 I'm very enthusiastic to learn and work in the new technologies.
  🔭 Working on Deep Learning & Machine Learning.
