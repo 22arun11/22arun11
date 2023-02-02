@@ -129,15 +129,19 @@
 <br/>
 <p align="center">
   <a href="https://22arun11.dev/">
-  <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="48%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-![ARUNKUMAR J' Activity Graph](https://activity-graph.herokuapp.com/graph?username=22arun11&custom_title=ArunKumar%20J%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=22arun11&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)!
 <br/>
-------
+-->
+
 
 ## 🙋 Lets connect
 
