@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/-Java-ad0a00?style=for-the-badge&logo=openjdk&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-C-800080?style=for-the-badge&logo=c&logoColor=666670&labelColor=282828">
   <img src="https://img.shields.io/badge/-C++-d93b1f?style=for-the-badge&logo=cplusplus&logoColor=666670&labelColor=282828">
+  <img src="https://img.shields.io/badge/-ASM-a65942?style=for-the-badge&logo=assemblyscript&logoColor=666670&labelColor=282828">
+
   <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -60,6 +62,8 @@
   <img src="https://img.shields.io/badge/-HTML-d92626?style=for-the-badge&logo=html5&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-2e5ce3?style=for-the-badge&logo=css3&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaSrcipt-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Streamlit-808080?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-ReactJS-87CEEB?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -73,7 +77,7 @@
   <img src="https://img.shields.io/badge/-sqlite-663dc2?style=for-the-badge&logo=sqlite&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-aws-a65942?style=for-the-badge&logo=amazonaws&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySql-1c708f?style=for-the-badge&logo=mysql&logoColor=f0f0f5&labelColor=282828">
-  
+  <img src="https://img.shields.io/badge/-MongoDB-006400?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -84,6 +88,7 @@
 <h2 align=left>💼Tools & Technologies</h2>
   <img src="https://img.shields.io/badge/-so-FF6F00?style=for-the-badge&logo=stackoverflow&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-git-b2004d?style=for-the-badge&logo=git&logoColor=f0f0f5&labelColor=282828">
+<img src="https://img.shields.io/badge/-llm-336699?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=f0f0f5&labelColor=282828">
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -96,6 +101,7 @@
   <img src="https://img.shields.io/badge/-Vs code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-jupyter-ff661a?style=for-the-badge&logo=jupyter&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Vim-23FA0F00?style=for-the-badge&logo=vim&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Android Studio-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -105,7 +111,12 @@
 
 <div align="center">
 <h2 align=left>🧰Framework & Libraries</h2>
-  
+  	<img src="https://img.shields.io/badge/-Django-d92626?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+	<img src="https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+	<img src="https://img.shields.io/badge/-NodeJS-43853D?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+	<img src="https://img.shields.io/badge/-Streamlit-4A4A8D?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+	<img src="https://img.shields.io/badge/-Chainlit-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+<!-- 	<img src="https://img.shields.io/badge/-Streamlit-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828"> -->
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -163,4 +174,4 @@
 
 Credit: [ArunKumar J](https://github.com/22arun11)
 
-Last Edited on: 13/08/2022
+Last Edited on: 29/01/2024
