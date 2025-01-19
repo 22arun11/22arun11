@@ -20,9 +20,9 @@
  📚 Pursuing BTech CSE at Amrita University, India.
  📝 I have a strong interest in Software Development & Artificial Intelligence.
  😲 I'm very enthusiastic to learn and work in the new technologies.
- 🔭 Working on Deep Learning & Machine Learning.
+ 🔭 Currently working on Fast API
  🌱 Learning about Computer Vision and Machine Learning stuff.
- 🌟 Main languages: Python, C, C++, Java.
+ 🌟 Main languages: Python, C++.
  🚩 Interested in Full Stack, Machine Learning Application development.
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
