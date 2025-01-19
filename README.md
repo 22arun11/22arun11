@@ -76,6 +76,9 @@
   <img src="https://img.shields.io/badge/-aws-a65942?style=for-the-badge&logo=amazonaws&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySql-1c708f?style=for-the-badge&logo=mysql&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-MongoDB-006400?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336699?style=for-the-badge&logo=postgresql&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Redis-b2004d?style=for-the-badge&logo=redis&logoColor=f0f0f5&labelColor=282828">
+	
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -88,6 +91,9 @@
   <img src="https://img.shields.io/badge/-git-b2004d?style=for-the-badge&logo=git&logoColor=f0f0f5&labelColor=282828">
 <img src="https://img.shields.io/badge/-llm-336699?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=f0f0f5&labelColor=282828">
+<img src="https://img.shields.io/badge/-Postman-d92626?style=for-the-badge&logo=postman&logoColor=f0f0f5&labelColor=282828">
+
+
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
 <br/>
@@ -100,6 +106,7 @@
   <img src="https://img.shields.io/badge/-jupyter-ff661a?style=for-the-badge&logo=jupyter&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Vim-23FA0F00?style=for-the-badge&logo=vim&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Android Studio-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-IntelliJ-800080?style=for-the-badge&logo=intellijidea&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
