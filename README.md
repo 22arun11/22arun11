@@ -17,13 +17,11 @@
 ```
  I-am-Arunkumar@github 
  -------------------------
- 📚 Pursuing BTech CSE at Amrita University, India.
+ 📚 Completed BTech CSE at Amrita University, India.
+ 🔭 Currently working as a DevOps Intern @Airbus
  📝 I have a strong interest in Software Development & Artificial Intelligence.
- 😲 I'm very enthusiastic to learn and work in the new technologies.
- 🔭 Currently working on Fast API
- 🌱 Learning about Computer Vision and Machine Learning stuff.
  🌟 Main languages: Python, C++.
- 🚩 Interested in Full Stack, Machine Learning Application development.
+ 🚩 Interested in Cloud Technologies and DevOps related Domain.
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
 
