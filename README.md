@@ -21,7 +21,7 @@
  🔭 Currently working as a DevOps Intern @Airbus
  📝 I have a strong interest in Software Development & Artificial Intelligence.
  🌟 Main languages: Python, C++.
- 🚩 Interested in Cloud Technologies and DevOps related Domain.
+ 🚩 Exploring Cloud Technologies and DevOps related Domain.
  🤹🏽‍♂️ Passionate about developing new ideas, POC & implementation of ideas.
 ```
 
