@@ -141,13 +141,21 @@
 ## ⚙️ My Github Statistics
 
 <br/>
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://22arun11.dev/">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="48%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=22arun11&theme=gruvbox&hide_border=true" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+    <img width="46%" src="https://streak-stats.demolab.com?user=22arun11&theme=gruvbox_duo&hide_border=true" />
   </a>
+</p> -->
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&theme=gruvbox&hide_border=true&area=true" />
 </p>
-<br>
+
+<br/>
+
+
 
 
 
