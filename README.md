@@ -43,9 +43,9 @@
 <h2 align=left>👨‍💻Programming Languages</h2>
   <img src="https://img.shields.io/badge/-Python-336699?style=for-the-badge&logo=python&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-ad0a00?style=for-the-badge&logo=openjdk&logoColor=f0f0f5&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C-800080?style=for-the-badge&logo=c&logoColor=666670&labelColor=282828">
+  <!-- <img src="https://img.shields.io/badge/-C-800080?style=for-the-badge&logo=c&logoColor=666670&labelColor=282828"> -->
   <img src="https://img.shields.io/badge/-C++-d93b1f?style=for-the-badge&logo=cplusplus&logoColor=666670&labelColor=282828">
-  <img src="https://img.shields.io/badge/-ASM-a65942?style=for-the-badge&logo=assemblyscript&logoColor=666670&labelColor=282828">
+  <img src="https://img.shields.io/badge/-.NET-a65942?style=for-the-badge&logo=.NET&logoColor=666670&labelColor=282828">
 
   <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/-JavaSrcipt-ffdb1f?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Streamlit-808080?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
   <img src="https://img.shields.io/badge/-ReactJS-87CEEB?style=for-the-badge&logo=javascript&logoColor=f0f0f5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Angular-87CEEB?style=for-the-badge&logo=angular&logoColor=f0f0f5&labelColor=282828">
   
  <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md !-->
  
