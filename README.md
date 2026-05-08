@@ -154,19 +154,13 @@
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&bg_color=0d1117&color=f8d866&line=f08a5d&point=c3e88d&area=true&hide_border=true" />
 </p>
 
-<br/>
-
-
-
-
-
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=22arun11&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)!
 <br/>
 -->
 
 
-## 🙋 Lets connect
+## 
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
