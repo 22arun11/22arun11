@@ -151,7 +151,7 @@
 </p> -->
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&theme=gruvbox&hide_border=true&area=true" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&bg_color=0d1117&color=f8d866&line=f08a5d&point=c3e88d&area=true&hide_border=true" />
 </p>
 
 <br/>
