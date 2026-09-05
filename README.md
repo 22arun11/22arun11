@@ -143,16 +143,26 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://22arun11.dev/">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+    <!-- <img width="46%" src="https://github-readme-stats.vercel.app/api?username=22arun11&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" /> -->
     <img width="46%" src="https://streak-stats.demolab.com?user=22arun11&theme=gruvbox_duo&hide_border=true" />
   </a>
+</p>
+
+<!-- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/22arun11/22arun11/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
 </p> -->
 
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&bg_color=0d1117&color=f8d866&line=f08a5d&point=c3e88d&area=true&hide_border=true" />
-</p>
+<!-- <p align="center">
+  <img
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=22arun11&bg_color=0d1117&color=f8d866&line=f08a5d&point=c3e88d&area=true&hide_border=true"
+  />
+</p> -->
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=22arun11&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)!
